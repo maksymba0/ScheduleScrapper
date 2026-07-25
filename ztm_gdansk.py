@@ -18,6 +18,7 @@ def getSessionID(response_txt):
 def getBusData():
 
     url = "https://files.cloudgdansk.pl/d/otwarte-dane/ztm/stops-with-routes.json?v=1"
+    file = None
     try:
         with open("bus_stops.txt", "r" , encoding="utf-8") as file:
             if file.read(1):
@@ -39,7 +40,7 @@ def getBusData():
         with open("bus_stops.txt","w") as file_:
             file_.write(response.text)
             print("Successfully saved data")
-            return json.load(file.read())
+            return json.load(file_.read())
     else:
         print(f"Failed to get bus stops data. Code {response.status_code}")
     
