@@ -30,18 +30,31 @@ I built this to check how web-data scrapping works and I also needed something f
 - Load Favourites button shows your saved stops.
 
 (App init)
+
 <img width="1252" height="788" alt="image" src="https://github.com/user-attachments/assets/72ea36e9-db17-453d-87c7-918caa029c74" />
+
 (Search by bus line number)
+
 <img width="1252" height="793" alt="image" src="https://github.com/user-attachments/assets/6e3a679a-64a4-4501-959d-5e7e9ea4278e" />
+
 (Search by bus-stop name)
+
 <img width="1243" height="301" alt="image" src="https://github.com/user-attachments/assets/33f7af27-6ce0-4432-a6ae-1dbe56eabd8e" />
+
 (Double clicking a bus stop in the list - printing schedule and real-time table)
+
 <img width="1243" height="576" alt="image" src="https://github.com/user-attachments/assets/97d28c11-8237-4e06-839e-7bc8009251f8" />
+
 (Right clicking a bus stop in the list - context menu with options)
+
 <img width="300" height="130" alt="image" src="https://github.com/user-attachments/assets/f8bd09d3-82cf-4787-b6e1-3f5f1954384d" />
+
 (Adding a bus stop to favourite list - highlighting favourite stops in green color )
+
 <img width="1248" height="467" alt="image" src="https://github.com/user-attachments/assets/7dc45a9c-5ddb-47a4-9a4e-3fb664b9bc62" />
+
 (Clicking Load Favourite button- list containing only favourite stops)
+
 <img width="911" height="497" alt="image" src="https://github.com/user-attachments/assets/daee253a-d03e-4a59-b458-acfa69bebbdb" />
 
 ### Built with
