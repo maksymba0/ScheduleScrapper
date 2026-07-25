@@ -49,6 +49,8 @@ I built this to check how web-data scrapping works and I also needed something f
 
 <img width="300" height="130" alt="image" src="https://github.com/user-attachments/assets/f8bd09d3-82cf-4787-b6e1-3f5f1954384d" />
 
+
+
 (Adding a bus stop to favourite list - highlighting favourite stops in green color )
 
 <img width="1248" height="467" alt="image" src="https://github.com/user-attachments/assets/7dc45a9c-5ddb-47a4-9a4e-3fb664b9bc62" />
