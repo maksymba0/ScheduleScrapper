@@ -1,0 +1,11 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+bus_stops.txt
+favourites.json
+output.txt
+
+.vscode/
+.idea/
